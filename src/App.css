@@ -1,7 +1,11 @@
 .App {
   text-align: center;
+  
 }
-
+.student-section{
+  display: flex;
+  justify-content: space-around;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
